@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SNRU-run-22d4c3ded2f5487712bac063c2dec6d674651b01.iml" filepath="$PROJECT_DIR$/SNRU-run-22d4c3ded2f5487712bac063c2dec6d674651b01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
